@@ -12,4 +12,4 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: ha-ha
-        uses: iarindam/action-joke@main
+        uses: iarindam/action-joke/.github/actions/joke-action@main
